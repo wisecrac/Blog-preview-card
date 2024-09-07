@@ -112,6 +112,17 @@ h2:hover {
 	width: 40px;
 }
 
+/* Information styles */
+.attribution {
+	font-size: 11px;
+	text-align: center;
+	font-size: large;
+	margin: 0.6rem 0 0 0;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
 /* Media Query for Mobile Design */
 @media (max-width: 375px) {
 	.card-container {
