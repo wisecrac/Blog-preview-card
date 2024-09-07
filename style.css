@@ -61,18 +61,21 @@ body {
 	box-shadow: 8px 8px black;
 	width: 30%;
 	padding: 1.2rem;
-	max-height: 600px;
+	max-height: 550px;
 }
 
 .card-img img {
 	border-radius: 0.6rem;
+	height: 200px;
+	width: auto;
+	object-fit: cover;
 }
 
 .learning {
 	font-size: var(--fs-paragraph);
 	color: var(--gray950);
 	font-weight: 800;
-	margin: 1.8rem 0 1.4rem 0;
+	margin: 1.3rem 0 1.3rem 0;
 	background-color: var(--yellow);
 	max-width: fit-content;
 	padding: 0.7rem 0.85rem;
@@ -80,7 +83,7 @@ body {
 }
 
 h2 {
-	margin: 1.4rem 0;
+	margin: 1.3rem 0;
 	font-weight: 800;
 }
 
@@ -96,7 +99,7 @@ h2:hover {
 .description {
 	color: var(--gray500);
 	line-height: 24px;
-	margin-bottom: 1.5rem;
+	margin-bottom: 1.3rem;
 }
 
 .profile {
