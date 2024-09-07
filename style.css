@@ -49,10 +49,12 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	min-height: 100vh;
 }
 
 /* card styles */
 .card-container {
+	margin-top: 60px;
 	background-color: var(--White);
 	border-radius: 1rem;
 	border: 1px solid black;
