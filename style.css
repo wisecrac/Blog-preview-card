@@ -54,13 +54,14 @@ body {
 
 /* card styles */
 .card-container {
-	margin-top: 150px;
+	margin-top: 120px;
 	background-color: var(--White);
 	border-radius: 1rem;
 	border: 1px solid black;
 	box-shadow: 8px 8px black;
 	width: 30%;
 	padding: 1.2rem;
+	max-height: 600px;
 }
 
 .card-img img {
