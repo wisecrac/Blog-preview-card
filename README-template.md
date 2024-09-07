@@ -11,10 +11,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (<https://your-solution-url.com>)
-- Live Site URL: (<https://your-live-site-url.com>)
+- Solution URL: (<https://github.com/wisecrac/Blog-preview-card>)
+- Live Site URL: (<https://wisecrac.github.io/Blog-preview-card/>)
 
 ## My process
 
