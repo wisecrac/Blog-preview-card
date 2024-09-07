@@ -54,7 +54,7 @@ body {
 
 /* card styles */
 .card-container {
-	margin-top: 80px;
+	margin-top: 150px;
 	background-color: var(--White);
 	border-radius: 1rem;
 	border: 1px solid black;
